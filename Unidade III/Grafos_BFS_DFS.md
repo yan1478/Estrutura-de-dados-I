@@ -34,7 +34,8 @@ python solucao_grafos.py --testes   # 17 testes automáticos + análise de conec
 Funcionalidades: siglas validadas (aceita também o nome da cidade, ignora maiúsculas/acentos, lista as opções se inválido); bloqueio feito em **cópia** (rede original intacta); mostra caminho e nº de arestas; casos sem caminho tratados (`None` → mensagem clara); origem = destino devolve 0 arestas.
 
 ## 4. Resultados (BSB → CWB)
-Saídas completas em `evidencias_testes.txt` e `evidencia_interativa.txt`.
+
+![Diagrama_grafo](diagrama_grafo.png)
 
 | Cenário | BFS | DFS |
 |---|---|---|
@@ -73,6 +74,3 @@ Saídas completas em `evidencias_testes.txt` e `evidencia_interativa.txt`.
 3. **(1:30)** Demo ao vivo: `--testes` e uma execução interativa com bloqueio e um nome inválido.
 4. **(1:30)** BFS (3) × DFS (5), efeito da ordem dos vizinhos e cenário sem caminho.
 5. **(0:30)** Limitações e extensão (pesos e Dijkstra).
-
-## 9. Arquivos
-`solucao_grafos.py` · `README.md` · `diagrama_grafo.png` · `evidencias_testes.txt` · `evidencia_interativa.txt`
