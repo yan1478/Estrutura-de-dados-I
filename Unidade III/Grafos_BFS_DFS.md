@@ -1,6 +1,6 @@
 # Grafos, BFS e DFS — Simulação de conectividade entre aeroportos (siglas IATA)
 
-**Disciplina:** Estrutura de Dados II — Ciência da Computação
+**Disciplina:** Estrutura de Dados II — Ciência da Computação, Yan Gabriel Silva de Souza
 **Motivação:** pane relacionada ao GPS e impactos em voos no Aeroporto de Brasília (G1 DF, 22 set. 2026).
 **Referência:** GOMES, P. C. R. *Grafos: conceitos fundamentais, algoritmos e aplicações*. Blumenau: Editora IFC, 2022.
 
