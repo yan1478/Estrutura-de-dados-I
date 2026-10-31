@@ -35,7 +35,7 @@ Funcionalidades: siglas validadas (aceita também o nome da cidade, ignora maiú
 
 ## 4. Resultados (BSB → CWB)
 
-![Diagrama_grafo](diagrama_grafo.png)
+![Diagrama_grafo](diagrama_Grafos_BFS_DFS.png)
 
 | Cenário | BFS | DFS |
 |---|---|---|
